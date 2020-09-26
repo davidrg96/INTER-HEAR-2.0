@@ -2,7 +2,7 @@
 //if we are going to use another software, we put a label to say it the part that is in the other software.
 void setup() {
   // put your setup code here, to run once:
-
+Serial.Begin(9600);
 }
 
 void loop() {
